@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Hey there](https://github.com/s-litvin/s-litvin/raw/master/bio.gif)
 <!--
 **s-litvin/s-litvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
